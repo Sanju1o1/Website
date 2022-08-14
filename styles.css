@@ -1,0 +1,136 @@
+/*(#corner to corner).Top-Container {
+  width: 200px;
+  height: 200px;
+  border: solid 10px;
+  border-color: Black;
+}
+
+.Middle-Container {
+  background-color: Blue;
+  width: 200px;
+  height: 200px;
+  margin-left: 220px;
+
+
+  border: solid 20px;
+  border-color: black;
+}
+
+.Lower-Container {
+  margin-left: 460px;
+  margin-right:460px;
+  background-color: Yellow;
+  width:200px;
+  height:200px;
+  border: solid 10px;
+  border-color: black;
+}
+
+/*.Top-Container {
+
+  background-color: Grey;
+}
+
+.Middle-Container {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+
+
+}
+
+.Lower-Container {
+  width: 200px;
+  background-color: yellow;
+  height: 200px;
+}
+.italics{text-decoration-style: italics;}
+
+
+.Top-Container {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+
+
+
+
+
+
+
+}
+
+.Middle-Container {
+  width: 200px;
+  height: 200px;
+  background-color:blue;
+  position: absolute;
+  left:200px;
+  top:200px;}
+
+  .Lower-Container {
+    width: 200px;
+    height: 200px;
+    background-color:red;
+    position: absolute;
+    top:400px;
+    left:400px;
+    }
+    */
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: verdana, sans-serif;
+  font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, sans-serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Roboto';
+}
+
+.Top-Container {
+  background-color: #00D7FF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #C1EFFF;
+  margin: 0px;
+}
+
+.bottom-container {
+  background-color:  #C1EFFF;
+  font-family: 'Inter', sans-serif;
+}
+
+.Bottom-Cloud {
+  position: absolute;
+  left: 200px;
+  color: pink;
+}
+
+.Top-Cloud {
+  position: absolute;
+  right: 200px;
+  top: 30px;
+}
+
+.Biking {
+  border: 1px solid Red;
+  border-radius: 10px: width: 10px;
+}
+
+.python {
+  width: 10px;
+}
+
+.Connect {
+  text-decoration-color: Red;
+}
+
+.pp1{width:150px; height: 150px;border-radius: 50%; }
+
+.Nepal{height: 200px;}
+.Auto{ width:100px; height:100px;}
